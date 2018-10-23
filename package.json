@@ -4,7 +4,7 @@
   "description": "code challenges",
   "main": "array_reverse.js",
   "scripts": {
-    "test": "eslint . && jest --coverage",
+    "test": "eslint . && jest",
     "lint": "eslint ."
   },
   "repository": {
